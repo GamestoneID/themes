@@ -20,7 +20,7 @@ import {
   Separator,
   //
   ThemePanel,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import styles from './page.module.css';
 
 export default function HomeOS() {

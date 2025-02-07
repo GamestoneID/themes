@@ -1,5 +1,5 @@
 'use client';
-import { Box, Checkbox, Flex, Text } from '@radix-ui/themes';
+import { Box, Checkbox, Flex, Text } from '@gamestone/themes';
 import React from 'react';
 
 export function PointerCursorsCheckbox() {

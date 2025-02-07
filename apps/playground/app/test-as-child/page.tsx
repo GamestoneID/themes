@@ -17,7 +17,7 @@ import {
   TabNav,
   Text,
   Theme,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { NextThemeProvider } from '../next-theme-provider';
 import NextLink from 'next/link';
 

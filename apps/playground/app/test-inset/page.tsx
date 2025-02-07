@@ -20,7 +20,7 @@ import {
   ThemePanel,
   RadioCards,
   CheckboxCards,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { NextThemeProvider } from '../next-theme-provider';
 
 export default function Test() {

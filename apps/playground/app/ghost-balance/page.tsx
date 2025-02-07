@@ -9,7 +9,7 @@ import {
   IconButton,
   Link,
   Popover,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import {
   ChatBubbleIcon,
   DotsHorizontalIcon,

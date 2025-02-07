@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/themes",
+  "name": "@gamestone/themes",
   "version": "3.4.0",
   "type": "commonjs",
   "main": "./dist/cjs/index.js",
@@ -141,12 +141,11 @@
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.18.1"
   },
-  "homepage": "https://radix-ui.com/themes",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/radix-ui/themes.git"
+    "url": "git+https://github.com/gamestone/themes.git"
   },
   "bugs": {
-    "url": "https://github.com/radix-ui/themes/issues"
+    "url": "https://github.com/gamestone/themes/issues"
   }
 }

@@ -12,7 +12,7 @@ import {
   Dialog,
   //
   ThemePanel,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { ImageCard } from './image-card';
 import { SnapshotLogo } from '../../components/snapshot-logo';
 import styles from './page.module.css';

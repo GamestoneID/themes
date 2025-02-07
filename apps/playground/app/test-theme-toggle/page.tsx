@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { Theme, Flex, ThemePanel, IconButton } from '@radix-ui/themes';
+import { Theme, Flex, ThemePanel, IconButton } from '@gamestone/themes';
 import { useTheme } from 'next-themes';
 import { SunIcon, MoonIcon } from '@radix-ui/react-icons';
 import { NextThemeProvider } from '../next-theme-provider';

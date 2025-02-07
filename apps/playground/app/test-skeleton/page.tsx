@@ -15,7 +15,7 @@ import {
   Heading,
   TextField,
   Skeleton,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { NextThemeProvider } from '../next-theme-provider';
 
 export default function Test() {

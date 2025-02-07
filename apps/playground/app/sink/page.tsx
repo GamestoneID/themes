@@ -63,7 +63,7 @@ import {
   Theme,
   ThemePanel,
   Tooltip,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import {
   accentColors,
   avatarPropDefs,
@@ -99,7 +99,7 @@ import {
   textAreaPropDefs,
   textFieldRootPropDefs,
   textPropDefs,
-} from '@radix-ui/themes/props';
+} from '@gamestone/themes/props';
 // import { HideCursor } from './hide-cursor';
 import styles from './page.module.css';
 

@@ -12,7 +12,7 @@ import {
   Section,
   Card,
   IconButton,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { NextThemeProvider } from '../next-theme-provider';
 import { SunIcon } from '@radix-ui/react-icons';
 

@@ -12,7 +12,7 @@ import {
   Container,
   Section,
   Separator,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 
 export default function Test() {
   return (

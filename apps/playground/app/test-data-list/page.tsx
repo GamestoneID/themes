@@ -15,7 +15,7 @@ import {
   Separator,
   Text,
   Theme,
-} from '@radix-ui/themes';
+} from '@gamestone/themes';
 import { StarFilledIcon, InfoCircledIcon } from '@radix-ui/react-icons';
 import React from 'react';
 import { NextThemeProvider } from '../next-theme-provider';

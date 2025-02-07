@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './globals.css';
 import './custom.css';
-import '@radix-ui/themes/styles.css';
+import '@gamestone/themes/styles.css';
 
 export const metadata = {
   title: 'Radix Themes playground',
