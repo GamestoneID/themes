@@ -143,9 +143,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gamestone/themes.git"
+    "url": "git+https://github.com/gamestoneid/themes.git"
   },
   "bugs": {
-    "url": "https://github.com/gamestone/themes/issues"
+    "url": "https://github.com/gamestoneid/themes/issues"
   }
 }
